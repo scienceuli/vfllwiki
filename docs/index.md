@@ -1,7 +1,7 @@
 # KollTool Dokumentation
 
-(Die Dokumentation von Mkdocs findet sich hier:
- [mkdocs.org](https://www.mkdocs.org) ).
+Die Dokumentation von Mkdocs findet sich hier:
+ [mkdocs.org](https://www.mkdocs.org) .
 
 ## Apps
 
