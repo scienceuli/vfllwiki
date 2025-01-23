@@ -1,0 +1,25 @@
+site_name: Kolltool Docs
+
+docs_dir: 'mkdocs'
+site_dir: 'docs/static/mkdocs_build'
+
+nav: 
+  - Home: index.md
+  - Profil: profiles.md
+  - Teams: teams.md
+  - Aufgaben: aufgaben.md
+  - Dokumente und Verzeichnisse: documents.md
+  - Nextcloud-Anbindung: nextcloud.md
+  - Umfragen: polls.md
+  - Meetings: bbb.md
+  - Zoom-Meetings: zoom.md
+
+theme:
+  name: material
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+plugins:
+  - glightbox
