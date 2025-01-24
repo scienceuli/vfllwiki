@@ -1,5 +1,6 @@
 # Metadata
 site_name: Kolltool Docs
+site_url: https://kolltooldocs.vfll.de
 site_author: Ulrich Kilian 
 
 # Repository
@@ -15,8 +16,8 @@ nav:
   - Dokumente und Verzeichnisse: documents.md
   - Nextcloud-Anbindung: nextcloud.md
   - Umfragen: polls.md
-  - Meetings: bbb.md
-  - Zoom-Meetings: zoom.md
+  - Meetings (BBB): bbb.md
+  - Meetings (Zoom): zoom.md
 
 # Material for MkDocs
 theme:

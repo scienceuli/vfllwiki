@@ -1,4 +1,4 @@
-﻿# Meetings mit BigBlueButton
+# Meetings mit BigBlueButton
 
 Das KollTool stellt für Video-Meetings die Open Source Software <https://bigbluebutton.org> zur Verfügung. Sie wird auf einem eigenen leistungsfähigen Server gehostet. Dadurch sind jederzeit Videokonferenzen mit (theoretisch) beliebig vielen Teilnehmenden möglich.
 
@@ -172,5 +172,5 @@ Ist die Umfrage abgeschlossen, kann das Ergebnis veröffentlicht werden. Es ersc
 
 ## Zoom Meetings
 
-siehe [hier](https://kolltool.vfll.de/docs/zoom/). 
+siehe [[zoom]].
 
