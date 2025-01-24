@@ -31,7 +31,7 @@ jobs:
         run: uv sync
 
       - name: Build Documentation
-        run: mkdocs build
+        run: uv run mkdocs build
 
       - name: Deploy to Vercel
         run: npx vercel --token ${{ secrets.VERCEL_TOKEN }} 
