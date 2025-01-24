@@ -11,4 +11,4 @@ dependencies = [
 ]
 
 [tool.uv.sources]
-mkdocs-material = { git = "https://github.com/squidfunk/mkdocs-material-insiders" }
+mkdocs-material = { git = "https://github.com/squidfunk/mkdocs-material" }
