@@ -1,8 +1,12 @@
+# Metadata
 site_name: Kolltool Docs
+site_author: Ulrich Kilian 
 
-docs_dir: 'mkdocs'
-site_dir: 'docs/static/mkdocs_build'
+# Repository
+repo_name: scienceuli/vfllwiki
+repo_url: https://github.com/scienceuli/vfllwiki
 
+# Navigation
 nav: 
   - Home: index.md
   - Profil: profiles.md
@@ -14,8 +18,10 @@ nav:
   - Meetings: bbb.md
   - Zoom-Meetings: zoom.md
 
+# Material for MkDocs
 theme:
   name: material
+  custom_dir: docs/.overrides
 
 markdown_extensions:
   - attr_list
