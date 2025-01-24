@@ -28,7 +28,7 @@ Folgende Felder stehen zur Verfügung:
 
 ## Umfrage beenden
 
-In der Umfrage-Übersicht können laufende Umfragen durch den *Creator* der jeweiligen Umfrage beendet werden \(Button ![Umfrage beenden](attachments/finish_symbol.png)\).
+In der Umfrage-Übersicht können laufende Umfragen durch den *Creator* der jeweiligen Umfrage beendet werden \(Button ![Umfrage beenden|50](attachments/finish_symbol.png)\).
 
 ## Umfrage editieren
 
