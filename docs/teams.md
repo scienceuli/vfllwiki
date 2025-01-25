@@ -4,7 +4,7 @@ tags:
 ---
 # Teams
 
-Ein Klick auf den Menüpunkt *Teams* \(→ ![Profile-Icon](attachments/teams_icon.png)\) öffnet eine Seite, auf der alle Teams angezeigt werden, in denen man Mitglied ist.
+Ein Klick auf den Menüpunkt *Teams* \(→ ![Profile-Icon](button_teams_icon.png)\) öffnet eine Seite, auf der alle Teams angezeigt werden, in denen man Mitglied ist.
 
 Teams sind Nutzergruppen, die das KollTool für die Zusammenarbeit nutzen, z. B. der Regionalrat, das Sprecher\*innen-Team einer RG oder das Kinder- und Jugendbuch-Netzwerk. Teams bilden die Grundstruktur des KollTools.
 

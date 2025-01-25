@@ -1,7 +1,7 @@
 from PIL import Image
 import os
 
-def resize_images_in_folder(folder_path, width=30):
+def resize_images_in_folder(folder_path, width=10):
     for filename in os.listdir(folder_path):
         if filename.startswith("button_") and filename.lower().endswith((".png", ".jpg", ".jpeg")):
             filepath = os.path.join(folder_path, filename)
