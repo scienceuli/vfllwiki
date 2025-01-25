@@ -60,7 +60,7 @@ Falls sich die Meetingraum-Kachel nach Beenden einer Konferenz nicht rot färbt,
 
 ## Meetings planen
 
-Über den Button ![BBB-Kalender-Icon](attachments/plan_bbb.png) lassen sich Meetings planen. Jedes geplante Meeting besteht aus – Beginn (Datum und Uhrzeit) – Dauer (in Minuten) – Titel – Beschreibung (optional).
+Über den Button ![BBB-Kalender-Icon](attachments/button_plan_bbb.png) lassen sich Meetings planen. Jedes geplante Meeting besteht aus – Beginn (Datum und Uhrzeit) – Dauer (in Minuten) – Titel – Beschreibung (optional).
 
 Die geplanten Meetings werden zum vorgesehenen Startpunkt gestartet und automatisch nach der vorgesehenen Dauer beendet, falls sich keine Teilnehmer\*innen mehr im Meeting befinden. 
 Eine Übersicht der geplanten Meetings findet sich auf jeder Meeting-Kachel im Reiter *Kalender*. Dort können geplante Meetings auch geändert oder gelöscht werden.
@@ -116,7 +116,7 @@ Unter **Geteilte Notizen** können beispielsweise Diskussionsergebnisse, getroff
 
 Hinter dem Pfeilsymbol oben rechts verbergen die Exportmöglichkeiten, die dann unten im Notizenfenster angezeigt werden.
 
-![Export geteilter Notizen](attachments/bbb_geteilte-notizen_export)
+![Export geteilter Notizen](attachments/bbb_geteilte-notizen_export.png)
 
 Im **Hauptfenster** ist die **Präsentationsfläche** zu sehen, die mit Klick auf den zweiten Button von rechts in der Fußleiste minimiert werden kann. 
 
@@ -130,15 +130,15 @@ Dafür benötigt man Präsentatorrechte. Alle Teilnehmenden können sich entwede
 
 Alternativ geht das über die Teilnehmerliste:
 
-![Über die Teilnehmerliste zum Präsentator werden][Präsentator_werden_Alternative](attachments/bbb_praesentator_werden_Alternative.png)
+![Über die Teilnehmerliste zum Präsentator werden][Präsentator_werden_Alternative](attachments/bbb_praesentator_werden_alternative.png)
 
 Klickt man auf „Bildschirm freigeben“, erscheint folgendes Fenster:
 
-![Bildschirm freigeben](attachments/bbb_bildschirmfreigabe)
+![Bildschirm freigeben](attachments/bbb_bildschirmfreigabe.png)
 
 Hier kann man auswählen, was freigegeben werden soll und muss die Freigabe bestätigen.
 
-![Bildschirmteilung erlauben](attachments/bbb_bildschirm-teilen_erlauben)
+![Bildschirmteilung erlauben](attachments/bbb_bildschirm-teilen_erlauben.png)
 
 Wichtig: Es können nur Browserfenster freigegeben werden, keine Browseratabs.
 
@@ -153,7 +153,7 @@ Klickt man auf „Umfrage starten“, öffnet sich das folgende Fenster:
 
 Wichtig ist das Feld „Teilnehmerantwort“. Standardmäßig sind die Umfragen nicht anonym. Über den Schieberegler kann das geändert werden.
 
-![Anonyme Umfragen](attachments/bbb_umfrage_teilnehmerantwort)
+![Anonyme Umfragen](attachments/bbb_umfrage_teilnehmerantwort.png)
 
 Der Umfragetyp Ja / Nein / Enthaltung lässt sich für Wahlen in den RG nutzen (nicht vergessen, die Teilnehmerantwort auf anonym zu setzen!).
 

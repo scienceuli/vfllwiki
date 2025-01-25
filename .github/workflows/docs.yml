@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - docs/**
+      - attachments/**
       - mkdocs.yml
       - pyproject.toml
       - .github/workflows/docs.yml
@@ -11,6 +12,7 @@ on:
   workflow_dispatch:
 
 jobs:
+
   deploy:
     name: Deploy VFLL Documentation
     runs-on: ubuntu-latest
@@ -29,6 +31,9 @@ jobs:
 
       - name: Install Dependencies
         run: uv sync
+
+      - name: Resize immages
+        run: uv run resize_images.py
 
       - name: Build Documentation
         run: uv run mkdocs build

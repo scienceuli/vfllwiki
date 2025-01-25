@@ -2,18 +2,18 @@
 
 Zu finden ist der Zoom-Kalender unter Meetings:
 
-![Link zum Zoom-Kalender in der Sidebar](attachments/Zoom-Kalender-finden.JPG){: loading=lazy width="100" }
+![Link zum Zoom-Kalender in der Sidebar](attachments/Zoom-Kalender-finden.jpg){: loading=lazy width="100" }
 
 Klickt man *Zoom* an, öffnet sich ein Kalender, in dem alle geplanten
 Zoom-Meetings aufgelistet sind.
 
 Links oben gibt es einen blauen Button „+ Zoom Meeting anlegen".
 
-![Button Zoom-Meeting anlegen](attachments/Zoom-Meeting-anlegen1.JPG){: loading=lazy width="250" }
+![Button Zoom-Meeting anlegen](attachments/Zoom-Meeting-anlegen1.jpg){: loading=lazy width="250" }
 
 Klickt man diesen an, öffnet sich die Eingabemaske:
 
-![Eingabemaske Neues Zoom-Meeting](attachments/Zoom-Meeting-anlegen2.JPG){: loading=lazy width="250" }
+![Eingabemaske Neues Zoom-Meeting](attachments/Zoom-Meeting-anlegen2.jpg){: loading=lazy width="250" }
 
 Alle Felder ausfüllen und mit „Anlegen" bestätigen.
 
@@ -28,7 +28,7 @@ Meeting Details".
 
 Dort gibt es oben fünf Buttons:
 
-![Buttons im Zoom-Kalender](attachments/Screenshot-Zoom-Meeting-Details.JPG){: loading=lazy width="250" }
+![Buttons im Zoom-Kalender](attachments/Screenshot-Zoom-Meeting-Details.jpg){: loading=lazy width="250" }
 
 - "Alle Termine": führt zum Gesamtkalender, der auch die Zoom-Meetings anzeigt.
 - "Zum Zoom-Kalender":;  Wie der Name schon sagt, geht es damit zurück zum
