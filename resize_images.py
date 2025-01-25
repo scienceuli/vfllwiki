@@ -13,5 +13,5 @@ def resize_images_in_folder(folder_path, width=30):
                 print(f"Resized: {filename}")
 
 if __name__ == "__main__":
-    folder_path = "attachments"
+    folder_path = "docs/attachments"
     resize_images_in_folder(folder_path)
