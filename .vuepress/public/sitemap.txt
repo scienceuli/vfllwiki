@@ -1,0 +1,9 @@
+https://wiki.vfll.de/dokumentation.html
+https://wiki.vfll.de/git-howto.html
+https://wiki.vfll.de/git.html
+https://wiki.vfll.de/kolltool.html
+https://wiki.vfll.de/markdown.html
+https://wiki.vfll.de/mitarbeit.html
+https://wiki.vfll.de/mkdocs.html
+https://wiki.vfll.de/obsidian.html
+https://wiki.vfll.de/readme.html

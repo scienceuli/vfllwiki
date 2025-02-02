@@ -1,0 +1,16 @@
+{
+  "name": "wiki",
+  "scripts": {
+    "build": "node build.js && vuepress build src",
+    "vue-build": "vuepress build src",
+    "dev": "vuepress dev src"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.14",
+    "@vuepress/plugin-search": "^2.0.0-rc.39",
+    "@vuepress/plugin-shiki": "^2.0.0-rc.39",
+    "@vuepress/theme-default": "^2.0.0-rc.39",
+    "mermaid": "^10.9.1",
+    "vuepress": "^2.0.0-rc.14"
+  }
+}
