@@ -26,7 +26,7 @@ Die Wissensdatenbank ist eine Ansammlung von [[Markdown]]-Dateien. Diese Text-Da
 
 Zur Bearbeitung der Wissensdatenbank muss [[Obsidian]] und [[Git]] installiert sein.
 
-Mehr zur gemeinsamen Bearbeitung gibt es unter [[Mitarbeit]].
+Mehr zur gemeinsamen Bearbeitung findet man unter [[Mitarbeit]].
 
 
 
