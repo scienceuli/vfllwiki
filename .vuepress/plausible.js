@@ -1,6 +1,6 @@
 import { path } from '@vuepress/utils'
 
-const name = '@mint-system/plugin-plausible'
+const name = '@scienceuli/plugin-plausible'
 
 const plausiblePlugin = ({ domain }) => {
     return {

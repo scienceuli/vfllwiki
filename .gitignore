@@ -10,3 +10,7 @@ node_modules
 .obsidian/appearance.json
 src
 .venv
+.DS_Store
+default.vim
+tmp
+pnpm-workspace.yaml

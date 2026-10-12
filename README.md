@@ -15,6 +15,8 @@ Das Wiki ist nicht hierarchisch organisiert, vielmehr sind die Inhalte untereina
 Zum Einstieg dienen folgende Seiten:
 - [[Dokumentation]]
 - [[Tools]]
+- [[Veranstaltungskalender]]
+- [[Mitgliederverwaltung]]
 
 ## Struktur
 

@@ -1,0 +1,5 @@
+- [x] Slugs als URLs
+- [x] Jede Seite sollte ein `<title>`-Element haben.
+- [x] Meta tags
+- [x] sitemap.xml
+- [ ] 

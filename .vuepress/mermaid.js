@@ -1,6 +1,6 @@
 import { path } from '@vuepress/utils'
 
-const name = '@mint-system/plugin-mermaid'
+const name = '@scienceuli/plugin-mermaid'
 
 const mermaidPlugin = () => {
     return {

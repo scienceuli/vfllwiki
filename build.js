@@ -689,7 +689,7 @@ if (!firstArg || ['all', 'convert'].indexOf(firstArg) > 0) {
         content = content + [
             '[📝 Edit on GitHub](' + gitUrl + file.replace(/\s+/g, '%20') + ')\n',
             '\n',
-            'Copyright © [Mint System GmbH](https://www.mint-system.ch)\n',
+            'Copyright © [VFLL e.V.](https://www.vfll.de)\n',
             '\n',
             '</footer>'
         ].join('')
