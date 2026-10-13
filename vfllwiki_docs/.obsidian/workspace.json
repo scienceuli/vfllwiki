@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nginx.md",
+                "file": "Zensical.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Nginx"
+              "title": "Zensical"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nginx.md",
+                "file": "Zensical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nginx.md",
+                "file": "Zensical.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nginx.md",
+                "file": "Zensical.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,13 +169,23 @@
               "icon": "lucide-list",
               "title": "Gliederung"
             }
+          },
+          {
+            "id": "fb83e49998b4ef96",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,19 +195,22 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bf3e6a5d5e23743c",
   "lastOpenFiles": [
+    "Mitarbeit.md",
+    "Zensical.md",
+    "index.md",
+    "Nginx.md",
     "images/vfll_logo.jpg",
     "images",
     "Mkdocs.md",
     "Mitgliederverwaltung.md",
-    "Mitarbeit.md",
     "Markdown.md",
     "KollTool.md",
-    "index.md",
     "Tools.md",
     "Git HowTo.md",
     "Git.md",

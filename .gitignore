@@ -14,3 +14,10 @@ src
 default.vim
 tmp
 pnpm-workspace.yaml
+
+/vfllwiki_docs/.obsidian/community-plugins.json
+/vfllwiki_docs/.obsidian/community-plugins.json
+/vfllwiki_docs/.obsidian/plugins/obsidian-git/main.js
+/vfllwiki_docs/.obsidian/plugins/obsidian-git/manifest.json
+/vfllwiki_docs/.obsidian/plugins/obsidian-git/styles.css
+/vfllwiki_docs/.obsidian/workspace.json
