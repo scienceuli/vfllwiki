@@ -37,7 +37,7 @@ Die Inhalte, die auf GitHub unter <https://github.com/scienceuli/vfllwiki> vorha
 Damit man die Inhalte auf GitHub stellen kann, benötigt man:
 * einen GitHub-Account
 * Zugriff auf die Github-Account <https://github.com/scienceuli>
-* einen [](Git.md#Client|Git%20Client)
+* einen [Git Client](Git.md#client)
 
 ## Tags
 
