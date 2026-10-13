@@ -32,5 +32,9 @@ Zur Bearbeitung der Wissensdatenbank muss [Obsidian](Obsidian.md) und [Git](Git.
 
 Mehr zur gemeinsamen Bearbeitung gibt es unter [Mitarbeit](Mitarbeit.md).
 
+## Build
+
+Dieses Wiki wird mit Hilfe von [Zensical](Zensical.md) aus Markdown-Dateien generiert. Für die lokale Bearbeitung der Dateien bietet sich z.B. [Obsidian](Obsidian.md) an.
+
 
 
