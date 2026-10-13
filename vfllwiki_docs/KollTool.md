@@ -6,5 +6,5 @@ Die Dokumentation des KollTools findet man unter [](https://kolltooldocs.vfll.de
 
 ## Prozesse
 Wichtige Prozesse im Backend sind:
-- Team-Mitgliedschaften ändern siehe [[Prozess - Teammitgliedschaft ändern]]
+- Team-Mitgliedschaften ändern siehe [Prozess - Teammitgliedschaft ändern](Prozess%20-%20Teammitgliedschaft%20ändern)
 

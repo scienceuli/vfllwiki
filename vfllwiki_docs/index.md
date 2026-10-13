@@ -17,20 +17,20 @@ Das Wiki ist nicht hierarchisch organisiert, vielmehr sind die Inhalte untereina
 
 Zum Einstieg dienen folgende Seiten:
 
-- [[Dokumentation]]
-- [[Tools]]
-- [[Veranstaltungskalender]]
-- [[Mitgliederverwaltung]]
+- [Dokumentation](Dokumentation.md)
+- [Tools](Tools)
+- [Veranstaltungskalender](Veranstaltungskalender.md)
+- [Mitgliederverwaltung](Mitgliederverwaltung.md)
 
 ## Struktur
 
-Die Wissensdatenbank ist eine Ansammlung von [[Markdown]]-Dateien. Diese Text-Dateien werden mittels [Wikilinks](https://de.wikipedia.org/wiki/Hilfe:Links)  verlinkt und bilden so eine vernetzte Wissensdatenbank.
+Die Wissensdatenbank ist eine Ansammlung von [markdown](Markdown.md)-Dateien. Diese Text-Dateien werden mittels [Wikilinks](https://de.wikipedia.org/wiki/Hilfe:Links)  verlinkt und bilden so eine vernetzte Wissensdatenbank.
 
 ## Mitarbeit
 
-Zur Bearbeitung der Wissensdatenbank muss [[Obsidian]] und [[Git]] installiert sein.
+Zur Bearbeitung der Wissensdatenbank muss [Obsidian](Obsidian.md) und [Git](Git.md) installiert sein.
 
-Mehr zur gemeinsamen Bearbeitung gibt es unter [[Mitarbeit]].
+Mehr zur gemeinsamen Bearbeitung gibt es unter [Mitarbeit](Mitarbeit.md).
 
 
 
