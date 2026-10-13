@@ -2,7 +2,9 @@
 tags:
 - Tools
 ---
+
 # Nginx
+
 ## Minimale Installation
 Nginx Config:
 ```bash

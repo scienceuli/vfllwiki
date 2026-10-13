@@ -24,6 +24,7 @@ nav = [
 # variant = "classic"
 # custom_dir = "overrides"
 # favicon = "images/favicon.png"
+logo = "images/vfll_logo.jpg"
 language = "de"
 features = [
   "announce.dismiss",
