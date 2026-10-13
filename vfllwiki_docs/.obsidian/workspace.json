@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dokumentation.md",
+                "file": "Nginx.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Dokumentation"
+              "title": "Nginx"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dokumentation.md",
+                "file": "Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dokumentation.md",
+                "file": "Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dokumentation.md",
+                "file": "Nginx.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +190,18 @@
   },
   "active": "bf3e6a5d5e23743c",
   "lastOpenFiles": [
-    "Markdown.md",
+    "Mkdocs.md",
+    "Mitgliederverwaltung.md",
     "Mitarbeit.md",
-    "index.md"
+    "Markdown.md",
+    "KollTool.md",
+    "index.md",
+    "Tools.md",
+    "Git HowTo.md",
+    "Git.md",
+    "Dokumentation.md",
+    "Backups.md",
+    "Ansible.md",
+    "2FA.md"
   ]
 }
