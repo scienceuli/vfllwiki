@@ -21,6 +21,7 @@ Zum Einstieg dienen folgende Seiten:
 - [Tools](Tools)
 - [Veranstaltungskalender](Veranstaltungskalender.md)
 - [Mitgliederverwaltung](Mitgliederverwaltung.md)
+- [Website](Website.md)
 
 ## Struktur
 

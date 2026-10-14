@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prozesse Wagtail.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prozesse Wagtail"
+              "title": "index"
             }
           }
         ]
@@ -201,8 +201,9 @@
   },
   "active": "bf3e6a5d5e23743c",
   "lastOpenFiles": [
-    "Wagtail.md",
+    "Dokumentation.md",
     "Prozesse Wagtail.md",
+    "Wagtail.md",
     "Website.md",
     "index.md",
     "Zensical.md",
@@ -217,7 +218,6 @@
     "Tools.md",
     "Git HowTo.md",
     "Git.md",
-    "Dokumentation.md",
     "Backups.md",
     "Ansible.md",
     "2FA.md"
