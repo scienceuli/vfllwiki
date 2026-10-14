@@ -216,6 +216,8 @@
   },
   "active": "4f6cb5dc74a38929",
   "lastOpenFiles": [
+    "Mitarbeit.md",
+    "Ansible.md",
     "SSH Zugriff.md",
     "Kommandozeile.md",
     "SSH.md",
@@ -226,7 +228,6 @@
     "Wagtail.md",
     "Website.md",
     "Zensical.md",
-    "Mitarbeit.md",
     "Nginx.md",
     "images/vfll_logo.jpg",
     "images",
@@ -238,7 +239,6 @@
     "Git HowTo.md",
     "Git.md",
     "Backups.md",
-    "Ansible.md",
     "2FA.md"
   ]
 }
