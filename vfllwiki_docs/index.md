@@ -24,7 +24,7 @@ Zum Einstieg dienen folgende Seiten:
 
 ## Struktur
 
-Die Wissensdatenbank ist eine Ansammlung von [markdown](Markdown.md)-Dateien. Diese Text-Dateien werden mittels [Wikilinks](https://de.wikipedia.org/wiki/Hilfe:Links)  verlinkt und bilden so eine vernetzte Wissensdatenbank.
+Die Wissensdatenbank ist eine Ansammlung von [markdown](Markdown.md)-Dateien. Diese Text-Dateien werden mittels Markdown-Links verlinkt, die Eingabe kann jedoch als   [Wikilink](https://de.wikipedia.org/wiki/Hilfe:Links) erfolgen (Obsidian wandelt Wikilinks ind Markdown-Links um). So entsteht eine vernetzte Wissensdatenbank. 
 
 ## Mitarbeit
 
