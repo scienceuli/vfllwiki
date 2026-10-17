@@ -17,4 +17,5 @@ pnpm-workspace.yaml
 
 /vfllwiki_docs/.obsidian/workspace.json
 
-site
+site/
+build_docs/
