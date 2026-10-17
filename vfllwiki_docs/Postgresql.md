@@ -44,7 +44,7 @@ We are setting the default encoding to `UTF-8`, which Django expects.
 
 We are also setting the default transaction isolation scheme to “`read committed`”, which blocks reads from uncommitted transactions.
 
-Lastly, we are setting the timezone by default, our Django projects will be set to use `UTC.`These are essential parameters recommended by the [[https://docs.djangoproject.com/en/2.2/ref/databases/#optimizing-postgresql-s-configuration]].
+Lastly, we are setting the timezone by default, our Django projects will be set to use `UTC.`These are essential parameters recommended by the https://docs.djangoproject.com/en/2.2/ref/databases/#optimizing-postgresql-s-configuration.
 
 ### Granting Permission To The User
 

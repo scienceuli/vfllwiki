@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grafana.md",
+                "file": "Zensical.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Grafana"
+              "title": "Zensical"
             }
           }
         ],
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grafana.md",
+                "file": "Zensical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,32 +231,34 @@
   },
   "active": "62646fa0019ddacf",
   "lastOpenFiles": [
-    "Zensical.md",
-    "Grafana.md",
-    "2FA.md",
-    "Mitgliederverwaltung.md",
-    "Nextcloud.md",
+    "SSH Zugriff.md",
+    "Postgresql.md",
+    "Obsidian HowTo.md",
+    "Obsidian.md",
     "Mitarbeit.md",
+    "Mitgliederverwaltung.md",
+    "Vercel.md",
+    "Richtlinie - Obsidian.md",
+    "Tags.md",
+    "Prozess - Teammitgliedschaft ändern.md",
+    "KollTool.md",
+    "Grafana.md",
+    "Zensical.md",
+    "2FA.md",
+    "Nextcloud.md",
     "was neues.md",
     "Dokumentation.md",
     "Ansible.md",
-    "attachments/ssh-zugrff.png",
+    "attachments/ssh-zugriff.png",
     "Website.md",
     "Wagtail.md",
     "SSH.md",
-    "SSH Zugriff.md",
     "Prozesse Wagtail.md",
     "Kommandozeile.md",
     "index.md",
     "Nginx.md",
     "images/vfll_logo.jpg",
     "images",
-    "Mkdocs.md",
-    "Markdown.md",
-    "KollTool.md",
-    "Tools.md",
-    "Git HowTo.md",
-    "Git.md",
-    "Backups.md"
+    "Mkdocs.md"
   ]
 }
