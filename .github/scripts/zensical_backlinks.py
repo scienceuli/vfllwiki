@@ -192,7 +192,7 @@ def main():
                 li = soup.new_tag("li")
                 link = soup.new_tag("a", href=rel_url(key, src))
                 link.string = titles[src]
-                li.append("🔗" + link)
+                li.append(link)
                 ul.append(li)
             aside.extend([h, ul])
             soup.select_one(ARTICLE).append(aside)
