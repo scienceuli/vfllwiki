@@ -120,5 +120,3 @@ pymdownx.tabbed.combine_header_slug = true
 pymdownx.tasklist.custom_checkbox = true
 pymdownx.tilde = {}
 
-[project.plugins]
-backlinks = ".github/scripts/zensical_backlinks"

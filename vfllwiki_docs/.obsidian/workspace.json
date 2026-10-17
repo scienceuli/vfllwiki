@@ -11,13 +11,32 @@
             "id": "21fc39603482fd12",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Mitarbeit.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Mitarbeit"
+            }
+          },
+          {
+            "id": "4038490d07f12abc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zensical.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Zensical"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.5859375
   },
   "right": {
     "id": "71f369111fc8a08d",
@@ -95,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Zensical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,11 +211,19 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fb83e49998b4ef96",
+  "active": "4038490d07f12abc",
   "lastOpenFiles": [
+    "2FA.md",
+    "Mitgliederverwaltung.md",
+    "Nextcloud.md",
+    "Mitarbeit.md",
+    "was neues.md",
+    "Dokumentation.md",
+    "Ansible.md",
     "attachments/ssh-zugrff.png",
     "Website.md",
     "Wagtail.md",
@@ -205,21 +232,16 @@
     "Prozesse Wagtail.md",
     "Kommandozeile.md",
     "Zensical.md",
-    "Mitarbeit.md",
     "index.md",
     "Nginx.md",
     "images/vfll_logo.jpg",
     "images",
     "Mkdocs.md",
-    "Mitgliederverwaltung.md",
     "Markdown.md",
     "KollTool.md",
     "Tools.md",
     "Git HowTo.md",
     "Git.md",
-    "Dokumentation.md",
-    "Backups.md",
-    "Ansible.md",
-    "2FA.md"
+    "Backups.md"
   ]
 }

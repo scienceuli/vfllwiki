@@ -30,13 +30,13 @@ Beachten Sie dabei die [Richtlinie - Obsidian](Richtlinie%20-%20Obsidian).
 
 Der Obsidian Vault und das Git Repository werden mit dem Obisidian Git Plugin synchronisiert.
 
-## Publizierung
+## Veröffentlichung
 
-Die Inhalte, die auf GitHub unter <https://github.com/scienceuli/vfllwiki> vorhanden sind, werden in Zukunft automatisch von [Vercel](Vercel) unter <https://wikivfll.de> publiziert.
+Die Inhalte, die auf GitHub unter <https://github.com/scienceuli/vfllwiki> vorhanden sind, werden automatisch von [Vercel](Vercel) unter <https://wiki.vfll.de> publiziert.
 
 Damit man die Inhalte auf GitHub stellen kann, benötigt man:
 * einen GitHub-Account
-* Zugriff auf die Github-Account <https://github.com/scienceuli>
+* Zugriff auf den Github-Account <https://github.com/scienceuli>
 * einen [Git Client](Git.md#client)
 
 ## Tags
