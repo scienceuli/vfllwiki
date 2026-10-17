@@ -22,7 +22,9 @@ jobs:
       - run: pip install -r requirements.txt
 
       - run: python .github/scripts/wikilinks.py vfllwiki_docs build_docs --strict
+      
       - run: zensical build --clean
+      
       - run: python .github/scripts/zensical_backlinks.py site --title "Backlinks"
 
       - run: npm i -g vercel@latest
