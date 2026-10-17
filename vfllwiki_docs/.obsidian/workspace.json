@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zensical.md",
-                "mode": "source",
+                "file": "SSH Zugriff.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Zensical"
+              "title": "SSH Zugriff"
             }
           }
         ],
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zensical.md",
+                "file": "SSH Zugriff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +231,8 @@
   },
   "active": "62646fa0019ddacf",
   "lastOpenFiles": [
+    "attachments/ssh-jump-host.png",
+    "Zensical.md",
     "SSH Zugriff.md",
     "Postgresql.md",
     "Obsidian HowTo.md",
@@ -243,7 +245,6 @@
     "Prozess - Teammitgliedschaft ändern.md",
     "KollTool.md",
     "Grafana.md",
-    "Zensical.md",
     "2FA.md",
     "Nextcloud.md",
     "was neues.md",
@@ -258,7 +259,6 @@
     "index.md",
     "Nginx.md",
     "images/vfll_logo.jpg",
-    "images",
-    "Mkdocs.md"
+    "images"
   ]
 }

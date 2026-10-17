@@ -25,5 +25,5 @@ Solange der SSH-Schlüssel des Benutzers nicht abhanden kommt ist ein Login durc
 ## Jump-Host
 
 Es wird empfohlen, dass der SSH-Zugriff nicht direkt auf den Server erfolgt, sondern via Jump-Host. Ein Jump-Host agiert als Proxy für die SSH-Verbindung. Der SSH-Port auf dem Ziel-Server kann so nur für die IP-Adresse des Jump-Host authorisiert werden.
-![[SSH Jump-Host.png]]
+![[attachments/ssh-jump-host.png]]
 Mit dieser Massnahme lässt sich die Authorisierung für den SSH-Zugriff zentralisieren und der Angriffvektor auf den Server wird reduziert.
