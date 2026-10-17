@@ -3,11 +3,11 @@ default.vim
 .now
 node_modules
 .vercel
-.obsidian/workspace.json
-.obsidian/graph.json
+**/.obsidian/workspace.json
+**/.obsidian/graph.json
 .temp
 .cache
-.obsidian/appearance.json
+**/.obsidian/appearance.json
 src
 .venv
 .DS_Store
@@ -15,7 +15,6 @@ default.vim
 tmp
 pnpm-workspace.yaml
 
-/vfllwiki_docs/.obsidian/workspace.json
 
 site/
 build_docs/
