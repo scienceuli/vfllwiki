@@ -9,7 +9,7 @@ a local folder of plain text Markdown files.
 
 Website: <https://obsidian.md/>
 
-Dazu gibt es das [Obsidian HowTo](Obsidian%20HowTo).
+Dazu gibt es das [[Obsidian HowTo]].
 
 ## Plugins
 

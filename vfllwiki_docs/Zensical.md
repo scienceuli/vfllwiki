@@ -32,7 +32,7 @@ For full documentation visit [zensical.org](https://zensical.org/docs/).
 
 ### Details
 
-> Go to [documentation](https://zensical.org/docs/authoring/admonitions/#collapsible-blocks)
+> Go to [[https://zensical.org/docs/authoring/admonitions/#collapsible-blocks]]
 
 ??? info "Click to expand for more info"
 
@@ -50,7 +50,7 @@ def greet(name):
 greet("Python")
 ```
 
-1.  > Go to [documentation](https://zensical.org/docs/authoring/code-blocks/#code-annotations)
+1.  > Go to [[https://zensical.org/docs/authoring/code-blocks/#code-annotations]]
 
     Code annotations allow to attach notes to lines of code.
 
@@ -157,7 +157,7 @@ $$
 
 ## Task Lists
 
-> Go to [documentation](https://zensical.org/docs/authoring/lists/#using-task-lists)
+> Go to [[https://zensical.org/docs/authoring/lists/#using-task-lists]]
 
 * [x] Install Zensical
 * [x] Configure `zensical.toml`

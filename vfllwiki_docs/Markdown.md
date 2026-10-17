@@ -31,8 +31,8 @@ icon: simple/markdown
 ```
 [Link text](https://example.com)
 [Link with title](https://example.com "Hover title")
-![Alt text](image.jpg)
-![Image with title](image.jpg "Image title")
+![[image.jpg|Alt text]]
+![[image.jpg "Image title"|Image with title]]
 ```
 
 ## Lists
