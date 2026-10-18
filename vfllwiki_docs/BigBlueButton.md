@@ -6,7 +6,7 @@ Hosting einer eigenen BBB-Instanz: [[Prozess - Installation BigBlueButton]]
 
 The latest version is BigBlueButton 4.0. You can install BigBlueButton it on Ubuntu 24.04 using [bbb-install.sh](https://github.com/bigbluebutton/bbb-install) within 30 minutes.
 
-Die wichtigsten Änderungen der Versionen 3.0 und 4.0 gegenüber 2.7 sind [[BigBlueButton Änderungen in 3.0 und 4.0]] zusammengefasst.
+Die wichtigsten Änderungen der Versionen 3.0 und 4.0 gegenüber 2.7 sind hier zusammengefasst: [[BigBlueButton Änderungen in 3.0 und 4.0]]
 
 ### Installationsvoraussetzungen
 
