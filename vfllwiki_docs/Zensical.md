@@ -32,7 +32,7 @@ For full documentation visit [zensical.org](https://zensical.org/docs/).
 
 ### Details
 
-> Go to [documentation](https://zensical.org/docs/authoring/admonitions/#collapsible-blocks)
+> Go to https://zensical.org/docs/authoring/admonitions/#collapsible-blocks
 
 ??? info "Click to expand for more info"
 
@@ -50,7 +50,7 @@ def greet(name):
 greet("Python")
 ```
 
-1.  > Go to [documentation](https://zensical.org/docs/authoring/code-blocks/#code-annotations)
+1.  > Go to https://zensical.org/docs/authoring/code-blocks/#code-annotations .
 
     Code annotations allow to attach notes to lines of code.
 
@@ -131,7 +131,8 @@ $$
     in a pages that do not need it. See the documentation for details on how
     to configure it on all your pages if they are more Maths-heavy than these
     simple starter pages.
-
+    
+```
 <script id="MathJax-script" src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script>
   window.MathJax = {
@@ -154,10 +155,11 @@ $$
     MathJax.typesetPromise()
   })
 </script>
+```
 
 ## Task Lists
 
-> Go to [documentation](https://zensical.org/docs/authoring/lists/#using-task-lists)
+> Go to https://zensical.org/docs/authoring/lists/#using-task-lists
 
 * [x] Install Zensical
 * [x] Configure `zensical.toml`
@@ -167,7 +169,3 @@ $$
 ## Tooltips
 
 > Go to [documentation](https://zensical.org/docs/authoring/tooltips/)
-
-[Hover me][example]
-
-  [example]: https://example.com "I'm a tooltip!"

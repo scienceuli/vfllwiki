@@ -24,30 +24,30 @@ git clone git@github.com:scienceuli/vfllwiki.git
 
 8. Öffnen Sie den Ordner mit Obsidian.
 
-Beachten Sie dabei die [Richtlinie - Obsidian](Richtlinie%20-%20Obsidian).
+Beachten Sie dabei die [[Richtlinie - Obsidian]].
 
 ## Synchronisierung
 
 Der Obsidian Vault und das Git Repository werden mit dem Obisidian Git Plugin synchronisiert.
 
-## Publizierung
+## Veröffentlichung
 
-Die Inhalte, die auf GitHub unter <https://github.com/scienceuli/vfllwiki> vorhanden sind, werden in Zukunft automatisch von [Vercel](Vercel) unter <https://wikivfll.de> publiziert.
+Die Inhalte, die auf GitHub unter <https://github.com/scienceuli/vfllwiki> vorhanden sind, werden automatisch von [[Vercel]] unter <https://wiki.vfll.de> publiziert.
 
 Damit man die Inhalte auf GitHub stellen kann, benötigt man:
 * einen GitHub-Account
-* Zugriff auf die Github-Account <https://github.com/scienceuli>
-* einen [Git Client](Git.md#client)
+* Zugriff auf den Github-Account <https://github.com/scienceuli>
+* einen [[Git.md#client]]
 
 ## Tags
 
-Siehe [Tags](Tags) für Details.
+Siehe [[Tags]] für Details.
 
 ## Metadaten
 
 Alle Wiki-Einträge können im Frontmatter Metadaten enthalten. Folgende Metadaten sind definiert:
 
-* `tags`: Auswahl aus der Liste von [Tags](Tags).
+* `tags`: Auswahl aus der Liste von [[Tags]].
 * `responsible`: Person oder Rolle Verantwortlich für den Prozess.
 * `responsibilities`: Bereiche in der Verwantwortung der Person.
 * `title`: Alternativer Name für den Artikel.

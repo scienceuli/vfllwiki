@@ -17,25 +17,25 @@ Das Wiki ist nicht hierarchisch organisiert, vielmehr sind die Inhalte untereina
 
 Zum Einstieg dienen folgende Seiten:
 
-- [Dokumentation](Dokumentation.md)
-- [Tools](Tools)
-- [Veranstaltungskalender](Veranstaltungskalender.md)
-- [Mitgliederverwaltung](Mitgliederverwaltung.md)
-- [Website](Website.md)
+- [[Dokumentation]]
+- [[Tools]]
+- [[Veranstaltungskalender]]
+- [[Mitgliederverwaltung]]
+- [[Website]]
 
 ## Struktur
 
-Die Wissensdatenbank ist eine Ansammlung von [markdown](Markdown.md)-Dateien. Diese Text-Dateien werden mittels Markdown-Links verlinkt, die Eingabe kann jedoch als   [Wikilink](https://de.wikipedia.org/wiki/Hilfe:Links) erfolgen (Obsidian wandelt Wikilinks ind Markdown-Links um). So entsteht eine vernetzte Wissensdatenbank. 
+Die Wissensdatenbank ist eine Ansammlung von [[Markdown.md|markdown]]-Dateien. Diese Text-Dateien werden mittels Markdown-Links verlinkt, die Eingabe kann jedoch als   [Wikilink](https://de.wikipedia.org/wiki/Hilfe:Links) erfolgen (Obsidian wandelt Wikilinks ind Markdown-Links um). So entsteht eine vernetzte Wissensdatenbank. 
 
 ## Mitarbeit
 
-Zur Bearbeitung der Wissensdatenbank muss [Obsidian](Obsidian.md) und [Git](Git.md) installiert sein.
+Zur Bearbeitung der Wissensdatenbank muss [[Obsidian]] und [[Git]] installiert sein.
 
-Mehr zur gemeinsamen Bearbeitung gibt es unter [Mitarbeit](Mitarbeit.md).
+Mehr zur gemeinsamen Bearbeitung gibt es unter [[Mitarbeit]].
 
 ## Build
 
-Dieses Wiki wird mit Hilfe von [Zensical](Zensical.md) aus Markdown-Dateien generiert. Für die lokale Bearbeitung der Dateien bietet sich z.B. [Obsidian](Obsidian.md) an.
+Dieses Wiki wird mit Hilfe von [[Zensical]] aus Markdown-Dateien generiert. Für die lokale Bearbeitung der Dateien bietet sich z.B. [[Obsidian]] an.
 
 
 
