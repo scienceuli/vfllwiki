@@ -32,6 +32,10 @@ flowchart LR
   subgraph CB["Codeberg · scienceuli"]
     inv[("🔒 Inventories<br/>(privat)")]
   end
+  
+  subgraph PD["Proton Drive"]
+    keepass[("🔐 KeePass-Datenbank<br/>Passwörter (verschlüsselt)")]
+  end
 
   subgraph VC["Vercel"]
     vc_wiki["VFLL-Wiki<br/>(Zensical-Build)<br/>Domain: wiki.vfll.de"]
@@ -141,7 +145,7 @@ flowchart LR
 
 ### Anmerkungen
 
-- Ein Subgraph pro Provider (GitHub, Codeberg, Vercel, all-inkl, Netcup, Netcup·fobi, Hetzner), 
+- Ein Subgraph pro Provider (GitHub, Codeberg, ProtonDrive, Vercel, all-inkl, Netcup, Netcup·fobi, Hetzner), 
 - `XY.vfll.de` steht für die Vfll Web Services. Die Kanten-Stile haben folgende Bedeutungen:
 
 - **Duurchgezogene Pfeile** zeigen Deployments, Backups and Mirror-Flows.
