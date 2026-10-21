@@ -2,5 +2,7 @@
   "useMarkdownLinks": false,
   "newLinkFormat": "relative",
   "attachmentFolderPath": "./attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "spellcheck": false
 }

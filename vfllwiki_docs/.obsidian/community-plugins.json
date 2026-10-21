@@ -1,5 +1,8 @@
 [
   "obsidian-link-converter",
   "obsidian-git",
-  "table-editor-obsidian"
+  "quickadd",
+  "table-editor-obsidian",
+  "emoji-shortcodes",
+  "obsidian-excalidraw-plugin"
 ]
