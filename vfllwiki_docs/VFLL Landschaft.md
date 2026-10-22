@@ -14,6 +14,7 @@ flowchart LR
     fobi(["FOBI"])
     cms(["CMS"])
     kt(["KT"])
+    blog(["Blog"])
     users(["öffentl. Nutzer:innen"])
   end
 
@@ -48,6 +49,7 @@ flowchart LR
     s_fobi["veranstaltungskalender.vfll.de"]
     s_admin["memberadmin.vfll.de"]
     s_koll["kolltool.vfll.de"]
+    s_blog["lektorenverband.de"]
     s_more["… .vfll.de"]
   end
 
@@ -68,7 +70,7 @@ flowchart LR
       faraday["faraday.science-and-more.com"]
       nc_more["… .science-and-more.com"]
     end
-    monitor["📈 monitor.science-and-more.com<br/>Grafana"]
+    monitor["📈 monitor.sam-projekte.de<br/>Grafana"]
     backup[("💾 backup.science-and-more.com<br/>DB- & File-Backups")]
   end
 
@@ -121,6 +123,7 @@ flowchart LR
   uli & kt -.->|"Zugang"| s_koll
   uli & cms -.-> |"Zugang"| s_www
   uli & fobi -.-> |"Zugang"| s_fobi
+  blog -.-> |"Zugang"| s_blog
   users -.->|"nutzen"| SVC
 
   %% ================= Styles =================
