@@ -3,6 +3,7 @@ tags:
 section: infrastructure
 kind: reference
 ---
+# Ansible
 
 Ansible ist eine  Technologie, mit der sich eine Server-Infrastruktur managen lässt.  Mit Ansible wird die Server-Konfiguration beschrieben und angewendet. Auch die Server für den VFLL werden mit Ansible konfiguriert.  
 
@@ -23,3 +24,7 @@ sequenceDiagram
     end
     M->>M: start nginx :8080, php-fpm, internal cron
 ```
+
+### Prozesse
+
+- [[Prozess - Ansible-Build einrichten]] 
