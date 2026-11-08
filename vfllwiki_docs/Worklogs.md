@@ -130,3 +130,8 @@ task play -i inventories playbooks/php_patching/check.yml -l hertz
 ```
 no change expected
 
+**Monthly Updates** or when necessary:
+```
+task play -i inventories playbooks/setup.yml -t update -l hertz -e reboot_allowed=false
+```
+

@@ -22,6 +22,7 @@ Zum Einstieg dienen folgende Seiten:
 - [[Veranstaltungskalender]]
 - [[Mitgliederverwaltung]]
 - [[Website]]
+- [[Prozesse]]
 
 ## Struktur
 
