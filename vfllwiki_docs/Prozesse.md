@@ -15,6 +15,11 @@
 - [[Prozess - VFLLCMS deployen]]
 - [[Prozess - VFLLCMS wiederherstellen]]
 
+## VFLL Blog
+
+- [[Prozess - VFLL Blog deployen]]
+- [[Prozess - VFLL Blog wiederherstellen]]
+
 ## Git
 
 - [[Prozess - Deploy feature branch]]
